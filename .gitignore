@@ -1,5 +1,4 @@
 *.pyc
 .idea/
-data/
 venv/
 data.bin
